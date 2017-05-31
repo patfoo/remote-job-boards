@@ -16,6 +16,7 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 - [Virtual Vocations](http://www.virtualvocations.com/)
 - [RemoteOK](https://remoteok.io)
 - [Bitwage Me](https://www.bitwage.me/remote-jobs)
+- [whoishiring.io](https://whoishiring.io/search/24.6237/-42.4948/2?remote=true)
 
 ## Web Industry
 - [Front End Developer Jobs](http://frontenddeveloperjob.com/) ✦
