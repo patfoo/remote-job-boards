@@ -9,7 +9,6 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 - [We Work Remotely](https://weworkremotely.com/)
 - [Slack at Work](http://slackatwork.com/) ✦
 - [Remotive Jobs](http://jobs.remotive.io/)
-- [WorkingRemote.ly List of Distributed Companies](http://workingremote.ly/leaders/distributed-companies/)
 - [Authentic Jobs](http://www.authenticjobs.com/#onlyremote=1) ✦
 - [Skip the Drive](http://www.skipthedrive.com/)
 - [Working Nomads](http://www.workingnomads.co/jobs)
