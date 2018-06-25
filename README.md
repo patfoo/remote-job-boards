@@ -16,7 +16,9 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 - [RemoteOK](https://remoteok.io)
 - [Bitwage Me](https://www.bitwage.me/remote-jobs)
 - [whoishiring.io](https://whoishiring.io/search/24.6237/-42.4948/2?remote=true)
-
+- [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
+- [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
+ 
 ## Web Industry
 - [Front End Developer Jobs](http://frontenddeveloperjob.com/) ✦
 - [GitHub Jobs](https://jobs.github.com/positions?description=remote&location=) ✦
