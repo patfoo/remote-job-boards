@@ -18,6 +18,9 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 - [whoishiring.io](https://whoishiring.io/search/24.6237/-42.4948/2?remote=true)
 - [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
 - [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
+- [ai-jobs.net](https://ai-jobs.net/) - AI/Big Data jobs (select region/filter)
+- [infosec-jobs.com](https://infosec-jobs.com/) - Cyber Security jobs (select region/filter)
+- [PRODUCTHIRE.NET](https://producthire.net/) - Product Management, UX, Growth Hacking jobs (select region/filter)
  
 ## Web Industry
 - [Front End Developer Jobs](http://frontenddeveloperjob.com/) ✦
