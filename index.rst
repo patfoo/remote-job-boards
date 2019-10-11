@@ -31,7 +31,8 @@ All Industries
 
 `PRODUCTHIRE.NET <https://producthire.net/>`_ - Product Management, UX, Growth Hacking jobs (select region/filter ✦
  
-## Web Industry
+Web Industry
+-------------
 `Front End Developer Jobs <http://frontenddeveloperjob.com/>`_ ✦
 
 `GitHub Jobs <https://jobs.github.com/positions?description=remote&location=>`_ ✦
