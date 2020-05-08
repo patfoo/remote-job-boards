@@ -14,6 +14,7 @@ At some point, I'd like to add a section with tips/advice on finding a remote jo
 - [Working Nomads](http://www.workingnomads.co/jobs)
 - [Virtual Vocations](http://www.virtualvocations.com/)
 - [RemoteOK](https://remoteok.io)
+- [FreshRemote.work](https://freshremote.work)
 - [Bitwage Me](https://www.bitwage.me/remote-jobs)
 - [whoishiring.io](https://whoishiring.io/search/24.6237/-42.4948/2?remote=true)
 - [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
